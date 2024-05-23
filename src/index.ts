@@ -1,7 +1,7 @@
 import express from "express"
 import {config} from "dotenv"
 
-import { Cardboard } from "cardboard.js"
+import { Cardboard } from "@cardboard-ink/cardboard-js"
 
 config()
 
