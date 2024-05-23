@@ -1,6 +1,6 @@
 .env
 node_modules
-
+.pnp.*
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
